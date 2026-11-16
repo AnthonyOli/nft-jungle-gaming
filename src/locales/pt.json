@@ -1,0 +1,434 @@
+{
+  "nav": {
+    "home": "Início",
+    "market": "Mercado",
+    "creators": "Criadores",
+    "learn": "Aprenda",
+    "profile": "Perfil"
+  },
+  "crumb": {
+    "home": "Início",
+    "market": "Mercado",
+    "cart": "Carrinho",
+    "checkout": "Pagamento"
+  },
+  "common": {
+    "tokenId": "ID do token: #{{id}}",
+    "qty": "(x {{qty}})",
+    "subtotal": "Subtotal",
+    "launchDiscount": "Desconto do lançamento",
+    "networkFee": "Taxa de rede",
+    "total": "Total",
+    "apply": "Aplicar",
+    "send": "Enviar",
+    "explore": "Explorar",
+    "close": "Fechar",
+    "less": "Menos",
+    "more": "Mais",
+    "remove": "Remover",
+    "displayName": "Nome de exibição",
+    "username": "Nome de usuário",
+    "email": "E-mail",
+    "ensName": "Nome ENS",
+    "profileName": "Nome do perfil",
+    "walletNickname": "Apelido da carteira",
+    "walletAddress": "Endereço da carteira",
+    "walletAddressPh": "Endereço 0x da carteira",
+    "walletType": "Tipo de carteira",
+    "selectWallet": "Selecione uma carteira",
+    "network": "Rede",
+    "selectNetwork": "Selecione uma rede",
+    "secondaryPh": "ENS ou carteira secundária (opcional)",
+    "referralCode": "Código de indicação",
+    "collectorProfile": "Perfil do colecionador",
+    "estimatedFee": "Taxa estimada",
+    "networks": [
+      "Ethereum",
+      "Polygon",
+      "Solana"
+    ],
+    "unavailable": "Esta função ainda não está disponível.",
+    "previousPrice": "Preço anterior:"
+  },
+  "header": {
+    "search": "Buscar",
+    "cart": "Carrinho",
+    "login": "Entrar",
+    "logout": "Sair",
+    "menu": "Menu",
+    "mainNav": "Navegação principal",
+    "tabBar": "Navegação do aplicativo",
+    "quickSearch": "Busca rápida"
+  },
+  "hero": {
+    "welcome": "Bem-vindo à Kurio",
+    "titleLine1": "SEJA DONO DO FUTURO",
+    "titleLine2": "DA ARTE DIGITAL",
+    "text": "Descubra NFTs selecionados de criadores emergentes e consagrados. Colecione arte digital rara, apoie artistas e tenha uma parte da cultura da internet.",
+    "cta": "Explorar"
+  },
+  "filters": {
+    "collections": "Coleções",
+    "priceRange": "Faixa de preço",
+    "price": "Preço",
+    "network": "Rede",
+    "min": "Mínimo (ETH)",
+    "max": "Máximo (ETH)",
+    "clear": "Limpar filtros",
+    "priceInvalid": "Use números como 0.5 ou 1.25.",
+    "minOverMax": "O mínimo não pode ser maior que o máximo.",
+    "open": "Filtros"
+  },
+  "home": {
+    "tabs": [
+      "Todos os NFTs",
+      "Novos lançamentos",
+      "Em alta"
+    ],
+    "featured": "NFT EM DESTAQUE",
+    "limitedOffer": "OFERTA LIMITADA",
+    "promos": [
+      {
+        "title": "Lançamentos gênesis de edição limitada",
+        "text": "Colecione edições escassas diretamente dos criadores antes da revelação pública."
+      },
+      {
+        "title": "Arte digital selecionada e muito mais",
+        "text": "Explore novos artistas, coleções verificadas e obras digitais que definem a cultura."
+      }
+    ],
+    "blogTitle": "Diário da Cunhagem",
+    "blogSub": "Histórias, guias e insights para colecionadores sobre o universo da propriedade digital.",
+    "posts": [
+      {
+        "date": "12 de setembro",
+        "readTime": "Leitura de 6 min",
+        "title": "Como funciona a propriedade de NFTs",
+        "text": "Aprenda a colecionar, negociar e verificar ativos digitais."
+      },
+      {
+        "date": "13 de setembro",
+        "readTime": "Leitura de 2 min",
+        "title": "10 artistas digitais para acompanhar",
+        "text": "Conheça criadores que moldam a cultura digital."
+      },
+      {
+        "date": "15 de setembro",
+        "readTime": "Leitura de 3 min",
+        "title": "Raridade, atributos e procedência",
+        "text": "Entenda raridade, procedência, direitos autorais e utilidade."
+      },
+      {
+        "date": "15 de setembro",
+        "readTime": "Leitura de 2 min",
+        "title": "Como proteger sua carteira",
+        "text": "Proteja sua carteira, seus ativos e sua identidade."
+      }
+    ],
+    "searchPh": "Buscar NFTs, coleções, atributos…",
+    "search": "Buscar",
+    "empty": "Nenhum NFT encontrado com esses filtros.",
+    "error": "Não foi possível carregar os NFTs.",
+    "results": "{{count}} NFTs",
+    "page": "Página {{n}}",
+    "catalogSearch": "Busca no catálogo",
+    "pagination": "Paginação",
+    "prevPage": "Página anterior",
+    "nextPage": "Próxima página",
+    "readMore": "Ler mais →",
+    "sortBy": "Ordenar por:",
+    "sortOptions": {
+      "featured": "Listados recentemente",
+      "new": "Novos lançamentos",
+      "hot": "Em alta",
+      "price-asc": "Menor preço",
+      "price-desc": "Maior preço"
+    }
+  },
+  "footer": {
+    "features": [
+      {
+        "icon": "W",
+        "title": "Segurança da carteira",
+        "text": "Proteja sua carteira e colecione arte digital verificada com confiança."
+      },
+      {
+        "icon": "C",
+        "title": "Criadores em destaque",
+        "text": "Conheça artistas, estúdios e comunidades que moldam a cultura digital."
+      },
+      {
+        "icon": "D",
+        "title": "Alertas de lançamentos",
+        "text": "Receba calendários de cunhagem, novidades de criadores e análises de mercado."
+      }
+    ],
+    "emailPh": "Digite seu e-mail...",
+    "tagline": "Feito para colecionadores, criadores e curiosos.",
+    "cols": [
+      {
+        "title": "Meu perfil",
+        "links": [
+          "Meu perfil",
+          "Minha coleção",
+          "Atividade",
+          "Estúdio do criador",
+          "Lista de interesses"
+        ]
+      },
+      {
+        "title": "Central de ajuda",
+        "links": [
+          "Central de ajuda",
+          "Como comprar NFTs",
+          "Carteira e segurança",
+          "Política do mercado",
+          "Denunciar item"
+        ]
+      },
+      {
+        "title": "Coleções",
+        "links": [
+          "Arte digital",
+          "Fotografia",
+          "Música",
+          "Arte 3D",
+          "Utilidade"
+        ]
+      }
+    ],
+    "social": "Redes sociais",
+    "wallets": "Carteiras compatíveis",
+    "copyright": "© 2026 Kurio. Propriedade digital para todos.",
+    "newsletterTitle": "Antecipe-se ao próximo lançamento",
+    "newsletterText": "Receba lançamentos selecionados, histórias de criadores e novidades do mercado.",
+    "phone": "+55 11 4002 8922",
+    "socialNames": [
+      "Facebook",
+      "Instagram",
+      "Twitter",
+      "LinkedIn",
+      "YouTube"
+    ],
+    "walletBadges": "METAMASK • WALLETCONNECT • COINBASE"
+  },
+  "auth": {
+    "login": "Entrar",
+    "signup": "Criar conta",
+    "loginSub": "Entre para gerenciar sua carteira, coleção e perfil de criador.",
+    "signupSub": "Crie seu perfil de colecionador e conecte uma carteira quando quiser.",
+    "emailLogin": "contato@email.com",
+    "emailSignup": "Digite seu e-mail",
+    "password": "Senha",
+    "confirm": "Confirmar senha",
+    "forgot": "Esqueceu a senha?",
+    "orContinue": "Ou continue com",
+    "google": "Continuar com Google",
+    "facebook": "Continuar com Facebook",
+    "showPassword": "Mostrar senha",
+    "hidePassword": "Ocultar senha",
+    "errors": {
+      "invalid_credentials": "E-mail ou senha inválidos.",
+      "invalid_data": "Verifique os dados informados (senha com 6+ caracteres).",
+      "password_mismatch": "As senhas não coincidem.",
+      "generic": "Algo deu errado. Tente novamente.",
+      "email_taken": "Este e-mail já está cadastrado.",
+      "unauthorized": "Sua sessão expirou. Entre novamente."
+    }
+  },
+  "product": {
+    "back": "Voltar",
+    "qtyShort": "Qtd.",
+    "buyNft": "Comprar NFT",
+    "addToCart": "Adicionar ao carrinho",
+    "addedToCart": "Adicionado ao carrinho",
+    "reviewsLine": "{{count}} avaliações de colecionadores",
+    "about": "Sobre este NFT:",
+    "edition": "Edição:",
+    "buy": "Comprar",
+    "favorite": "Favoritar",
+    "share": "Compartilhar este NFT:",
+    "tabDetails": "Detalhes do NFT",
+    "tabReviews": "Avaliações de colecionadores ({{count}})",
+    "network": "Rede:",
+    "contract": "Contrato:",
+    "copyright": "Direitos autorais:",
+    "moreFrom": "Mais desta coleção",
+    "collection": "Coleção",
+    "attributes": "Atributos",
+    "notFound": "NFT não encontrado.",
+    "favorited": "Favoritado",
+    "soldOut": "Esgotado",
+    "stockLeft": "{{count}} disponíveis",
+    "notFoundTitle": "NFT não encontrado",
+    "notFoundText": "Este NFT não existe ou foi removido do mercado.",
+    "backToMarket": "Voltar ao mercado",
+    "galleryImage": "Ver imagem {{n}}",
+    "favoriteError": "Não foi possível atualizar seus favoritos. Tente de novo.",
+    "noEditions": "Todas as edições estão esgotadas.",
+    "added": "Adicionado ao carrinho",
+    "ratingLabel": "Nota {{rating}} de 5",
+    "zoom": "Ampliar imagem"
+  },
+  "cart": {
+    "nfts": "NFTs",
+    "price": "Preço",
+    "editions": "Edições",
+    "total": "Total",
+    "summary": "Resumo da carteira",
+    "promoCode": "Código promocional",
+    "promoPh": "Digite o código promocional...",
+    "checkout": "Conectar e finalizar",
+    "keepExploring": "Continuar explorando",
+    "alsoViewed": "Colecionadores também viram",
+    "empty": "Seu carrinho está vazio.",
+    "couponApplied": "Cupom {{code}} aplicado",
+    "couponInvalid": "Cupom inválido.",
+    "couponExpired": "Cupom expirado.",
+    "removeCoupon": "Remover cupom",
+    "issueSoldOut": "Esta edição está esgotada. Remova o item para continuar.",
+    "issueStock": "Só restam {{stock}} unidades desta edição.",
+    "issueUnknown": "Este item não está mais disponível.",
+    "quoteFailed": "Não foi possível calcular o resumo.",
+    "loading": "Carregando carrinho"
+  },
+  "checkout": {
+    "otherWallet": "Usar outra carteira?",
+    "note": "Observação do colecionador (opcional)",
+    "confirm": "Confirmar compra",
+    "yourNfts": "Seus NFTs",
+    "walletNetwork": "Carteira e rede",
+    "error": "Não foi possível concluir a compra. Tente novamente.",
+    "noWallet": "Cadastre uma carteira no perfil para pagar.",
+    "submitting": "Enviando…",
+    "emptyCart": "Seu carrinho está vazio.",
+    "walletOption": "{{type}} · {{network}} · {{address}}",
+    "mainWallet": "Principal",
+    "secondaryWallet": "Secundária",
+    "quoteChanged": "Os valores mudaram desde a última revisão. Confira o resumo e confirme de novo.",
+    "loading": "Carregando pagamento",
+    "review": "Revisar compra",
+    "reviewTitle": "Revise seu pedido",
+    "back": "Voltar e editar",
+    "connect": "Conectar carteira",
+    "connecting": "Conectando…",
+    "connected": "Carteira conectada",
+    "disconnect": "Desconectar",
+    "refused": "A carteira recusou a conexão. Tente de novo ou escolha outra carteira.",
+    "connectRequired": "Conecte a carteira para confirmar a compra.",
+    "acceptChanges": "Aceitar novos valores",
+    "expiredQuote": "Os valores mudaram. Revise o novo total e aceite para continuar.",
+    "reviewNote": "Observação",
+    "reviewWallet": "Carteira de pagamento",
+    "reviewBuyer": "Colecionador"
+  },
+  "success": {
+    "title": "Seus NFTs agora estão na sua carteira",
+    "txId": "ID da transação",
+    "date": "Data",
+    "wallet": "Carteira",
+    "details": "Detalhes da transação",
+    "nfts": "NFTs",
+    "editions": "Edições",
+    "subtotal": "Subtotal",
+    "confirmed": "Transação confirmada na Ethereum. A propriedade foi transferida para sua carteira conectada e registrada na rede.",
+    "etherscan": "Ver no Etherscan"
+  },
+  "profile": {
+    "menuTitle": "Meu perfil",
+    "menu": [
+      "Dados do perfil",
+      "Carteiras",
+      "Atividade",
+      "Lista de interesse",
+      "Ofertas",
+      "Arquivos baixados",
+      "Suporte"
+    ],
+    "logout": "Sair",
+    "avatar": "Avatar",
+    "change": "Alterar",
+    "changePassword": "Alterar senha",
+    "currentPassword": "Senha atual",
+    "newPassword": "Nova senha",
+    "confirmNewPassword": "Confirmar nova senha",
+    "save": "Salvar",
+    "mainWallet": "Carteira principal",
+    "add": "Adicionar",
+    "mainWalletSub": "Estas carteiras ficam disponíveis no pagamento e para receber NFTs comprados.",
+    "saveWallet": "Salvar carteira",
+    "secondaryWallet": "Carteira secundária",
+    "noSecondary": "Você ainda não adicionou uma carteira secundária.",
+    "saved": "Alterações salvas.",
+    "errors": {
+      "invalid_data": "Verifique os dados informados.",
+      "email_taken": "Este e-mail já está em uso.",
+      "wrong_password": "A senha atual está incorreta.",
+      "password_mismatch": "As senhas não coincidem.",
+      "generic": "Não foi possível salvar. Tente novamente."
+    },
+    "loading": "Carregando...",
+    "avatarAlt": "Foto do perfil",
+    "uploading": "Enviando…",
+    "removeAvatar": "Remover",
+    "addSecondary": "Adicionar carteira secundária",
+    "editSecondary": "Editar carteira secundária",
+    "secondaryNickname": "Apelido da carteira secundária",
+    "removeSecondary": "Remover carteira",
+    "cancel": "Cancelar",
+    "unavailable": "Indisponível no momento",
+    "walletSaved": "Carteira salva.",
+    "walletRemoved": "Carteira removida.",
+    "saving": "Salvando…"
+  },
+  "errors": {
+    "generic": "Algo deu errado. Tente novamente.",
+    "network": "Sem conexão com o servidor. Verifique sua internet e tente de novo.",
+    "unavailable": "Serviço indisponível no momento. Tente novamente.",
+    "insufficient_stock": "Estoque insuficiente para essa quantidade.",
+    "sold_out": "Esta edição está esgotada.",
+    "quote_changed": "Os valores mudaram. Revise o resumo e confirme de novo.",
+    "idempotency_conflict": "Esta compra já foi enviada com outros dados. Atualize a página e tente de novo.",
+    "not_found": "Não encontrado.",
+    "invalid_data": "Verifique os dados informados.",
+    "unauthorized": "Sua sessão expirou. Entre novamente.",
+    "retry": "Tentar novamente"
+  },
+  "fieldErrors": {
+    "required": "Campo obrigatório.",
+    "invalid_email": "Informe um e-mail válido.",
+    "invalid_address": "Endereço inválido: use o formato 0x… (hexadecimal).",
+    "min6": "Use ao menos 6 caracteres.",
+    "password_mismatch": "As senhas não coincidem.",
+    "wrong_password": "A senha atual está incorreta.",
+    "email_taken": "Este e-mail já está em uso.",
+    "invalid_data": "Verifique este campo.",
+    "avatar_too_large": "A imagem é grande demais.",
+    "avatar_invalid": "Use uma imagem PNG, JPEG ou WebP.",
+    "current_required": "Informe a senha atual para trocar a senha."
+  },
+  "order": {
+    "pendingTitle": "Aguardando confirmação",
+    "pendingText": "Sua compra foi enviada e está sendo confirmada na rede. Esta página atualiza sozinha.",
+    "declinedTitle": "Pagamento recusado",
+    "declinedText": "A carteira recusou a transação. Nenhum valor foi cobrado e o item continua no seu carrinho.",
+    "tryAgain": "Voltar ao pagamento",
+    "notFound": "Pedido não encontrado.",
+    "status": "Status",
+    "orderId": "Pedido",
+    "statusPending": "Pendente",
+    "statusConfirmed": "Confirmado",
+    "statusDeclined": "Recusado",
+    "loading": "Carregando pedido",
+    "offline": "Sem conexão. Mostrando o último estado conhecido; tentando de novo…"
+  },
+  "realtime": {
+    "cartItemChanged": "{{name}} teve preço ou estoque atualizado. Confira o resumo do carrinho.",
+    "orderConfirmed": "Pedido {{id}} confirmado.",
+    "orderDeclined": "Pedido {{id}} recusado.",
+    "viewOrder": "Ver pedido"
+  },
+  "a11y": {
+    "skip": "Pular para o conteúdo"
+  }
+}
