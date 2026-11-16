@@ -1,0 +1,12 @@
+{
+  "ci": {
+    "collect": {
+      "startServerCommand": "VITE_MOCKS=true vite build --outDir .lhci-dist && vite preview --outDir .lhci-dist --port 4174 --strictPort",
+      "startServerReadyPattern": "Local",
+      "startServerReadyTimeout": 120000,
+      "url": ["http://localhost:4174/", "http://localhost:4174/produto/0042"],
+      "numberOfRuns": 3
+    },
+    "upload": { "target": "filesystem", "outputDir": "reports/lighthouse/mobile" }
+  }
+}
